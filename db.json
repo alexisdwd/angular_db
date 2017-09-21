@@ -1,12 +1,14 @@
 
-	{
-	username: "Bret",
-	email: "Sincere@april.biz",
-	phone: "1213"
-	},
 
-	{
-	username: "Bret2",
-	email: "Sincere@april.biz",
-	phone: "1213"
-	}
+{
+"username": "Bret",
+"email": "Sincere@april.biz",
+"phone": "1213"
+},
+
+{
+"username": "Bret2",
+"email": "Sincere@april.biz",
+"phone": "1213"
+}
+
