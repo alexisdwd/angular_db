@@ -1,14 +1,11 @@
-
-
 {
-"username": "Bret",
-"email": "Sincere@april.biz",
-"phone": "1213"
-},
-
-{
-"username": "Bret2",
-"email": "Sincere@april.biz",
-"phone": "1213"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
