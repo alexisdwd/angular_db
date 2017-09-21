@@ -1,9 +1,8 @@
 {
-  "users": [
+  "posts": [
     {
-      "username": "alexidwd",
-      "email": "alexisdwd@gmail.com",
-      "phone": 094389999
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
